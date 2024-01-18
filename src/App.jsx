@@ -1,4 +1,16 @@
 import { useState } from "react";
+import {
+  About,
+  Cart,
+  Checkout,
+  Error,
+  Landing,
+  Login,
+  Orders,
+  Products,
+  Register,
+  SingleProduct,
+} from "./pages";
 
 function App() {
   return (
